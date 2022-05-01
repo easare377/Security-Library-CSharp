@@ -4,6 +4,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 using Newtonsoft.Json;
+using SecurityUtil;
 
 namespace Konect.Security
 {

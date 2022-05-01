@@ -1,8 +1,4 @@
-﻿using System;
-using System.Security.Cryptography;
-using System.Text;
-
-namespace Konect.Security
+﻿namespace SecurityUtil
 {
     /// <summary>
     /// Defines methods used to encrypt or compute password hash.
