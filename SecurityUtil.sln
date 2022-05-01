@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityUtil", "SecurityUtil\SecurityUtil.csproj", "{4086ECD8-2352-4880-B523-9ACF4F14F871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityUtil.Test", "SecurityUtil.Test\SecurityUtil.Test.csproj", "{A74D0061-7BE8-4B2D-AA2E-C1312E4EEAAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4086ECD8-2352-4880-B523-9ACF4F14F871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4086ECD8-2352-4880-B523-9ACF4F14F871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4086ECD8-2352-4880-B523-9ACF4F14F871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4086ECD8-2352-4880-B523-9ACF4F14F871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74D0061-7BE8-4B2D-AA2E-C1312E4EEAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74D0061-7BE8-4B2D-AA2E-C1312E4EEAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74D0061-7BE8-4B2D-AA2E-C1312E4EEAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74D0061-7BE8-4B2D-AA2E-C1312E4EEAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+/Users/ernestopoku-kwarteng/Documents/Visual Studio/Projects/SecurityUtil/SecurityUtil/SecurityUtil/bin/Debug/net6.0/SecurityUtil.deps.json
+/Users/ernestopoku-kwarteng/Documents/Visual Studio/Projects/SecurityUtil/SecurityUtil/SecurityUtil/bin/Debug/net6.0/SecurityUtil.dll
+/Users/ernestopoku-kwarteng/Documents/Visual Studio/Projects/SecurityUtil/SecurityUtil/SecurityUtil/bin/Debug/net6.0/ref/SecurityUtil.dll
+/Users/ernestopoku-kwarteng/Documents/Visual Studio/Projects/SecurityUtil/SecurityUtil/SecurityUtil/bin/Debug/net6.0/SecurityUtil.pdb
+/Users/ernestopoku-kwarteng/Documents/Visual Studio/Projects/SecurityUtil/SecurityUtil/SecurityUtil/obj/Debug/net6.0/SecurityUtil.csproj.AssemblyReference.cache
+/Users/ernestopoku-kwarteng/Documents/Visual Studio/Projects/SecurityUtil/SecurityUtil/SecurityUtil/obj/Debug/net6.0/SecurityUtil.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ernestopoku-kwarteng/Documents/Visual Studio/Projects/SecurityUtil/SecurityUtil/SecurityUtil/obj/Debug/net6.0/SecurityUtil.AssemblyInfoInputs.cache
+/Users/ernestopoku-kwarteng/Documents/Visual Studio/Projects/SecurityUtil/SecurityUtil/SecurityUtil/obj/Debug/net6.0/SecurityUtil.AssemblyInfo.cs
+/Users/ernestopoku-kwarteng/Documents/Visual Studio/Projects/SecurityUtil/SecurityUtil/SecurityUtil/obj/Debug/net6.0/SecurityUtil.csproj.CoreCompileInputs.cache
+/Users/ernestopoku-kwarteng/Documents/Visual Studio/Projects/SecurityUtil/SecurityUtil/SecurityUtil/obj/Debug/net6.0/SecurityUtil.dll
+/Users/ernestopoku-kwarteng/Documents/Visual Studio/Projects/SecurityUtil/SecurityUtil/SecurityUtil/obj/Debug/net6.0/ref/SecurityUtil.dll
+/Users/ernestopoku-kwarteng/Documents/Visual Studio/Projects/SecurityUtil/SecurityUtil/SecurityUtil/obj/Debug/net6.0/SecurityUtil.pdb

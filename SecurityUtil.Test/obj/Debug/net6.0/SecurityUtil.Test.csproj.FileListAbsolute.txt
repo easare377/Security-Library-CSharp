@@ -1,0 +1,5 @@
+/Users/ernestopoku-kwarteng/Documents/Visual Studio/Projects/SecurityUtil/SecurityUtil/SecurityUtil.Test/obj/Debug/net6.0/SecurityUtil.Test.csproj.AssemblyReference.cache
+/Users/ernestopoku-kwarteng/Documents/Visual Studio/Projects/SecurityUtil/SecurityUtil/SecurityUtil.Test/obj/Debug/net6.0/SecurityUtil.Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ernestopoku-kwarteng/Documents/Visual Studio/Projects/SecurityUtil/SecurityUtil/SecurityUtil.Test/obj/Debug/net6.0/SecurityUtil.Test.AssemblyInfoInputs.cache
+/Users/ernestopoku-kwarteng/Documents/Visual Studio/Projects/SecurityUtil/SecurityUtil/SecurityUtil.Test/obj/Debug/net6.0/SecurityUtil.Test.AssemblyInfo.cs
+/Users/ernestopoku-kwarteng/Documents/Visual Studio/Projects/SecurityUtil/SecurityUtil/SecurityUtil.Test/obj/Debug/net6.0/SecurityUtil.Test.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6dpgkq2zQXw2AfTOOGJAtB0azFDX6DreXNDJsMe8oDpN158ynTriXKYc+Eoh19bhDU/IcYf8NZLJMiVCdsTgEg==",
+  "success": true,
+  "projectFilePath": "/Users/ernestopoku-kwarteng/Documents/Visual Studio/Projects/SecurityUtil/SecurityUtil/SecurityUtil/SecurityUtil.csproj",
+  "expectedPackageFiles": [
+    "/Users/ernestopoku-kwarteng/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
